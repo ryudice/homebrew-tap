@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "yabai-stack-switcher" do
-  version "0.0.1"
-  sha256 "d01332cdee760cd5a5125e47aae26ae365eebd7887cdf92aee607c1173901659"
+  version "0.0.2"
+  sha256 "9352438e5fe656efbcf7c28489516c744170212de492e04f4a0a474ecbdd2749"
 
   url "https://github.com/ryudice/yabai-stack-switcher/releases/download/v#{version}/YabaiStackSwitcher-#{version}.zip"
   name "Yabai Stack Switcher"
